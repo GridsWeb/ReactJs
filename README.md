@@ -1,6 +1,6 @@
 # ReactJs
 Master-Main
 
-npx create-react-app my-app
-cd my-app
+npx create-react-app my-reactjs
+cd my-reactjs
 npm start
